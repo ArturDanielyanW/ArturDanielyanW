@@ -1,16 +1,13 @@
-## Hi there 👋
+# Բարև, ես Արթուրն եմ 👋
 
-<!--
-**ArturDanielyanW/ArturDanielyanW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ես սկսնակ Frontend Developer եմ, Երևանից։ Ունեմ բազային գիտելիքներ HTML, CSS, JavaScript ոլորտներում։ Ներկայումս սովորում եմ React։
 
-Here are some ideas to get you started:
+ Իմ հմտությունները՝  
+-  HTML5, SASS/CSS, JavaScript  
+-  Flexbox, Responsive Design  
+-  React (ուսումնասիրման փուլում)  
+-  Visual Studio Code, Chrome DevTools  
+- Հասկացողություն API-ների և JSON ֆորմատի վերաբերյալ  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Կապ՝ vdyr7js@mail.ru 
+
